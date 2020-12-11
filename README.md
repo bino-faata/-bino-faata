@@ -4,4 +4,4 @@
 - 🖥 Learning JavaScript to bring full-stack developer role
 - 🎓 Learning computer science from all available sources
 
-![Bino-Faata's github stats](https://github-readme-stats.vercel.app/api?username=bino-faata&show_icons=true&theme=solarized-light)
+![Bino-Faata's github stats](https://github-readme-stats.vercel.app/api?username=bino-faata&show_icons=true&theme=solarized-dark)
