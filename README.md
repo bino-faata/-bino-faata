@@ -5,4 +5,4 @@
 - 🐧 Linux enthusiast
 - JavaScript/PHP direction
 
-## [GitHub Page](https://bino-faata.github.io)
+## [GitHub CV Page](https://bino-faata.github.io)
